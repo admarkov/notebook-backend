@@ -1,3 +1,0 @@
-C:/Users/alexm/CLionProjects/notebook-backend/cmake-build-debug/CMakeFiles/notebook_backend.dir
-C:/Users/alexm/CLionProjects/notebook-backend/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/alexm/CLionProjects/notebook-backend/cmake-build-debug/CMakeFiles/rebuild_cache.dir
